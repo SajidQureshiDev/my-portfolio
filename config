@@ -1,0 +1,11 @@
+# User1 Account Identity
+Host <user_1.gitlab.com>
+  Hostname gitlab.com
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/<example_ssh_key1>
+
+# User2 Account Identity
+Host <user_2.gitlab.com>
+  Hostname gitlab.com
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/<example_ssh_key2>
