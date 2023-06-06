@@ -9,7 +9,7 @@ export function Form() {
   const [state, handleSubmit] = useForm('myyozglw')
 
   const [validEmail, setValidEmail] = useState(false)
-  const [isHuman, setIsHuman] = useState(false)
+  // const [isHuman, setIsHuman] = useState(false)
   const [message, setMessage] = useState('')
 
   function verifyEmail(email: string) {

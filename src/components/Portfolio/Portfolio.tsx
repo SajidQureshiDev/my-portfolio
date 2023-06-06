@@ -1,6 +1,6 @@
 import { Container } from "./styles";
-import githubIcon from "../../assets/github-icon.svg"
-import externalLinkIcon from "../../assets/external-link-icon.svg"
+// import githubIcon from "../../assets/github-icon.svg"
+// import externalLinkIcon from "../../assets/external-link-icon.svg"
 import ScrollAnimation from "react-animate-on-scroll";
 import baladi from "../../assets/logo-dark.png";
 import race from "../../assets/race.jpg";
@@ -35,7 +35,7 @@ export function Portfolio(){
                 <li>React Js</li>
                 <li>Material-UI</li>
                 <li>Styles Components</li>
-                <li>Sweat Alert</li>
+                {/* <li>Sweat Alert</li> */}
                 <li>Axios</li>
               </ul>
             </footer>
