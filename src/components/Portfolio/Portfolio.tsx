@@ -35,7 +35,7 @@ export function Portfolio(){
                 <li>React Js</li>
                 <li>Material-UI</li>
                 <li>Styles Components</li>
-                {/* <li>Sweat Alert</li> */}
+                <li>Sweat Alert</li>
                 <li>Axios</li>
               </ul>
             </footer>
