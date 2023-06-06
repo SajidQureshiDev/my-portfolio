@@ -32,10 +32,10 @@ export function Portfolio(){
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Laravel</li>
-                <li>Tailwind Css</li>
-                <li>JavaScript</li>
-                <li>Jquery Ui</li>
+                <li>React Js</li>
+                <li>Material-UI</li>
+                <li>Styles Components</li>
+                {/* <li>Sweat Alert</li> */}
                 <li>Axios</li>
               </ul>
             </footer>

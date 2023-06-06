@@ -39,8 +39,7 @@ return (
         I'm also proficient in using design tools such as XD and Figma to create prototypes that accurately reflect the
         final product.
 
-        Throughout my career, I've demonstrated a keen eye for detail and a passion for creating beautiful, intuitive
-        interfaces that enhance the user experience. I've worked on projects across a range of industries, including
+        Throughout my career, I've worked on projects across a range of industries, including
         e-commerce, healthcare, and finance, and have consistently delivered high-quality work that meets or exceeds
         client expectations.
 
